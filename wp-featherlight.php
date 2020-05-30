@@ -1,18 +1,18 @@
 <?php
 /**
- * Plugin Name:  WP Featherlight
- * Plugin URI:   https://cipherdevelopment.com/wp-featherlight/
+ * Plugin Name:  WP Featherlight Disabled by WPJ
+ * Plugin URI:   https://wpjohnny.com/wp-featherlight-disabled/
  * Description:  An ultra lightweight jQuery lightbox for WordPress images and galleries.
- * Version:      1.3.3
- * Author:       Cipher
- * Author URI:   https://cipherdevelopment.com
+ * Version:      1.0
+ * Author:       WPJohnny
+ * Author URI:   https://wpjohnny.com
  * License:      GPL-2.0+
  * License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:  wp-featherlight
  * Domain Path:  /languages
  *
  * @package   WPFeatherlight
- * @copyright Copyright (c) 2018, Cipher Development, LLC
+ * @copyright Copyright (c) 2020, WPJohnny
  * @license   GPL-2.0+
  * @since     0.1.0
  */
