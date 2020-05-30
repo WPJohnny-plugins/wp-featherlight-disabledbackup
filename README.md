@@ -9,7 +9,7 @@ __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Description ##
 
-WP Featherlight Disabled is a fork of the original ultra-light WP Featherlight jQuery lightbox plugin. This plugin displays all standard WordPress images and galleries in a simple, minimalistic lightbox popup. Its total weight is about 6-7kb in CSS/JS. 
+WP Featherlight Disabled is a fork of the original ultra-light WP Featherlight jQuery lightbox plugin. This plugin displays all standard WordPress images and galleries in a simple, minimalistic lightbox popup. Its total weight is only 6-7kb in CSS/JS. 
 
 - The original version loads the plugin CSS/JS globally and can be manually disabled per post via checkbox. 
 - Mine is the opposite, plugin CSS/JS is only loaded if manually enabled per post via checkbox.
