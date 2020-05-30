@@ -212,7 +212,7 @@ class WP_Featherlight_Scripts {
 	 * @return void
 	 */
 	public function maybe_disable() {
-		if ( get_post_meta( get_the_ID(), 'wp_featherlight_disable', true ) ) {
+		if ( !get_post_meta( get_the_ID(), 'wp_featherlight_disable', true ) ) { // Added ! by Yin
 			add_filter( 'wp_featherlight_load_css', '__return_false' );
 			add_filter( 'wp_featherlight_load_js',  '__return_false' );
 		}
