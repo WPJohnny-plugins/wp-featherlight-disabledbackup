@@ -9,7 +9,10 @@ __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Description ##
 
-WP Featherlight Disabled is a fork off the original ultra-light WP Featherlight jQuery lightbox plugin. When installed AND ENABLED (via checkbox), the plugin displays all standard WordPress images and galleries in a simple, minimalistic lightbox popup. The original version loads the Featherlight CSS/JS globally and can be manually disabled per post via checkbox. Mine is the opposite, disables the global CSS/JS and only loads it if manually enabled per post via checkbox.
+WP Featherlight Disabled is a fork of the original ultra-light WP Featherlight jQuery lightbox plugin. This plugin displays all standard WordPress images and galleries in a simple, minimalistic lightbox popup. Its total weight is about 6-7kb in CSS/JS. 
+
+- The original version loads the plugin CSS/JS globally and can be manually disabled per post via checkbox. 
+- Mine is the opposite, plugin CSS/JS is only loaded if manually enabled per post via checkbox.
 
 In order for WordPress images and galleries to be lightboxed, you need to select the "Media File" option when choosing where the thumbnails should link. You can also select the "Custom Link" option if you make sure to link directly to an image file. This should work for any image file even if it's hosted on another website.
 
