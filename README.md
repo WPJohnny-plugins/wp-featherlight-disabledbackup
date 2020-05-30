@@ -1,17 +1,15 @@
-# WP Featherlight
+# WP Featherlight Disabled
 
-An ultra lightweight jQuery lightbox for WordPress images and galleries.
+Fork of the original lightweight jQuery lightbox for WordPress images and galleries.
 
-__Contributors:__ [Robert Neu](https://github.com/robneu), [Ozzy Rodriguez](https://github.com/ozzyrod), [Cipher Development](https://github.com/cipherdevgroup)
+__Contributors:__ [Johnny Nguyen](https://github.com/wpjohnny), Yin
 __Requires:__ WordPress 4.0
 __Tested up to:__ WordPress 5.4.1
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
-![nacin-at-loopconf](https://cloud.githubusercontent.com/assets/2184093/9426378/56c32f16-4902-11e5-9e57-75a4620cc51b.png)
-
 ## Description ##
 
-WP Featherlight is a WordPress plugin wrapper for the Featherlight jQuery lightbox plugin. When installed, the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup.
+WP Featherlight Disabled is a fork off the original ultra-light WP Featherlight jQuery lightbox plugin. When installed AND ENABLED (via checkbox), the plugin displays all standard WordPress images and galleries in a simple, minimalistic lightbox popup. The original version loads the Featherlight CSS/JS globally and can be manually disabled per post via checkbox. Mine is the opposite, disables the global CSS/JS and only loads it if manually enabled per post via checkbox.
 
 In order for WordPress images and galleries to be lightboxed, you need to select the "Media File" option when choosing where the thumbnails should link. You can also select the "Custom Link" option if you make sure to link directly to an image file. This should work for any image file even if it's hosted on another website.
 
@@ -19,7 +17,7 @@ In order for WordPress images and galleries to be lightboxed, you need to select
 
 It's also possible to load Videos, iframes, and ajax content using WP Featherlight by adding data attributes to your content. For more details on custom content loading, check out the [featherlight documentation](https://github.com/noelboss/featherlight/#usage).
 
-There are no settings for WP Featherlight, so you should be able to install it without needing to configure anything. In the event you don't want a lightbox on certain pages or posts, there is an option to disable it from within the post editor screen.
+There are no settings for WP Featherlight Disabled, so you should be able to install it without needing to configure anything.
 
 Here's an example of the plugin being used to load a large (5mb) external image in a standard WordPress post:
 
@@ -29,7 +27,7 @@ If you find a display problem, it may be related to your theme but please [open 
 
 ## Installation ##
 
-The best way to install this plugin is to either [download a copy](https://wordpress.org/plugins/wp-featherlight/) from the WordPress.org repository or search for "WP Featherlight" from your WordPress admin dashboard.
+The best way to install this plugin is to either [download a copy](https://github.com/WPJohnny-plugins/wp-featherlight-disabled) from the GitHub. Once available on WordPress.org repository, can search for "WP Featherlight Disabled" from your WordPress admin dashboard.
 
 ## Developer Notes ##
 
@@ -39,4 +37,4 @@ You can also disable inclusion of the CSS and JavaScript conditionally using fil
 
 ## Contributing ##
 
-If you're a developer, the most current version can be found on the [develop branch](https://github.com/cipherdevgroup/wp-featherlight/tree/develop). Pull requests, issues, and any feedback are all more than welcome. If you would like to contribute code, please make your pull requests against the develop branch rather than the master.
+Developers can fork off this [WPJohnny fork](https://github.com/WPJohnny-plugins/wp-featherlight-disabled_) or most current original found on the [develop branch](https://github.com/cipherdevgroup/wp-featherlight/tree/develop). Pull requests, issues, and any feedback are all more than welcome. If you would like to contribute code, please make your pull requests against the develop branch rather than the master.
