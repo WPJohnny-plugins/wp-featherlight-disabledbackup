@@ -26,7 +26,7 @@ Here's an example of the plugin being used to load a large (5mb) external image 
 
 ![Loader in Action](https://cloud.githubusercontent.com/assets/2184093/7943635/5ba2155e-092b-11e5-8b97-be5ca8cc77d8.gif)
 
-If you find a display problem, it may be related to your theme but please [open an issue](https://github.com/cipherdevgroup/wp-featherlight/issues) about it so we can look into it. For more information about the Featherlight script itself, check out their [GitHub plugin page](http://noelboss.github.io/featherlight/).
+If you find a display problem, it may be related to your theme but can [open an issue at the original GitHub](https://github.com/cipherdevgroup/wp-featherlight/issues) to have them look into it. For more information about the Featherlight script itself, check out their [GitHub plugin page](http://noelboss.github.io/featherlight/).
 
 ## Installation ##
 
