@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-Please make all pull requests against the develop branch. These are the steps required to get up and running with the development version of the plugin:
+Please make all pull requests against the original plugin develop branch [here](https://github.com/cipherdevgroup/wp-featherlight). These are the steps required to get up and running with the development version of the plugin:
 
 - Clone forked repo
 - Run `yarn install`
