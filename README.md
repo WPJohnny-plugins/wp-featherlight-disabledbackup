@@ -2,7 +2,7 @@
 
 Fork of the original lightweight jQuery lightbox for WordPress images and galleries.
 
-__Contributors:__ [Johnny Nguyen](https://github.com/wpjohnny), Yin
+__Contributors:__ [Johnny Nguyen](https://github.com/wpjohnny), zeroneit
 __Requires:__ WordPress 4.0
 __Tested up to:__ WordPress 5.4.1
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
