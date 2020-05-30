@@ -36,7 +36,7 @@ The best way to install this plugin is to either [download a copy](https://githu
 
 While there are no options in the plugin, there are some handy filters to modify the default behavior. As of `0.3.0` all images which use the default WordPress captions will also include a caption when the image is lightboxed. To disable this behavior, filter `wp_featherlight_captions` to false.
 
-You can also disable inclusion of the CSS and JavaScript conditionally using filters which can be found in the `/includes/class-scripts.php` file. If you have questions about how any part of the plugin works, please don't hesitate to [open an issue](https://github.com/cipherdevgroup/wp-featherlight/issues).
+If you have questions about how any part of the plugin works, please don't hesitate to [open an issue](https://github.com/cipherdevgroup/wp-featherlight/issues).
 
 ## Contributing ##
 
